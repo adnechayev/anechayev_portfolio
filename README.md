@@ -24,6 +24,12 @@
    
 4. **Topic Modeling**
 
-- My last project looks at a natural language processing technique called topic modeling using LDA and TF-IDF methods. These methods generate topics from terms that share a relevancy, in order to show us an overarching theme in a corpus of text. Here we looked at popular artist Khalid's lyrics and using the package pyLDAvis, we were able to visualize the topic clusters as well as term frequency to see which lyrics were most relevent to a given topic.
+- This project looks at a natural language processing technique called topic modeling using LDA and TF-IDF methods. These methods generate topics from terms that share a relevancy, in order to show us an overarching theme in a corpus of text. Here we looked at popular artist Khalid's lyrics and using the package pyLDAvis, we were able to visualize the topic clusters as well as term frequency to see which lyrics were most relevent to a given topic.
 
 ![topicmode](https://github.com/adnechayev/anechayev_portfolio/assets/54389325/f3d061d0-83bf-44b5-b993-736a627bdfa1)
+
+5. **K-means Clustering**
+
+-K-means clustering is an unsupervised machine learning algorithm that groups data points based on their Euclidian distance from their respective cluster (k). In this project, I looked at credit card transaction details to see if my K-means model is a good fit for correctly labeling a given transaction as fraudulent or not. With a high inertia value of 84893, the highest accuracy reading I reached was 50% unfortunately - indicating that this model was not a good fit for the dataset. 
+
+![kmeans1](https://github.com/adnechayev/anechayev_portfolio/assets/54389325/b970e2d5-f96b-4533-8014-d377a0cbbfe2)
